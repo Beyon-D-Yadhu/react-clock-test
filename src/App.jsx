@@ -1,20 +1,3 @@
-// import { useEffect, useState } from 'react';
-// import Clock from 'react-clock';
-
-// import React from 'react'
-
-// function App() {
-//   let time = useState(new Date().getTime())
-//   console.log(time)
-//   return (
-//     <div>
-//       <h1>Current Time:</h1>
-//     </div>
-//   )
-// }
-
-// export default App
-
 import { useEffect, useState } from 'react';
 import Clock from 'react-clock';
 import 'react-clock/dist/Clock.css';
